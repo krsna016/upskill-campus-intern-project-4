@@ -13,7 +13,7 @@ Welcome to the Python Quiz Game! This interactive quiz allows you to test your P
    - Run the following command:
 
      ```bash
-     python quiz_game.py
+     python Main.py
      ```
 
 2. **Entering Your Name**
@@ -22,7 +22,7 @@ Welcome to the Python Quiz Game! This interactive quiz allows you to test your P
 ## Quiz Interface
 
 1. **Question Display**
-   - The main window displays a question along with multiple-choice options.
+   - The main window displays a question along with single-choice options.
 
 2. **Answering Questions**
    - Select an option by clicking on the radio button next to your chosen answer.
