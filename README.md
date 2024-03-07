@@ -16,7 +16,7 @@ The Python Quiz Game is designed to offer an engaging and educational experience
 
 ## Project Structure
 
-- `quiz_game.py`: Main Python script implementing the quiz game with Tkinter.
+- `Main.py`: Main Python script implementing the quiz game with Tkinter.
 - `questions.json`: JSON file containing quiz questions and options.
 - `quiz_history.json`: JSON file storing quiz history data.
 
