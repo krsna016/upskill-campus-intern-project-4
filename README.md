@@ -24,4 +24,4 @@ The Python Quiz Game is designed to offer an engaging and educational experience
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/your-quiz-game-repo.git
+   git clone https://github.com/krsna016/upskill-campus-intern-project-4.git
