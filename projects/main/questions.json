@@ -1,0 +1,22 @@
+[
+  {"question": "What is the capital of France?", "options": ["Paris", "London", "Berlin", "Madrid"], "correct_answer": "Paris"},
+  {"question": "Which programming language is this game written in?", "options": ["Java", "C++", "Python", "Ruby"], "correct_answer": "Python"},
+  {"question": "What is the largest mammal in the world?", "options": ["Elephant", "Blue Whale", "Giraffe", "Hippopotamus"], "correct_answer": "Blue Whale"},
+  {"question": "In which year did the Titanic sink?", "options": ["1905", "1912", "1920", "1931"], "correct_answer": "1912"},
+  {"question": "Who wrote 'Romeo and Juliet'?", "options": ["Charles Dickens", "William Shakespeare", "Jane Austen", "Mark Twain"], "correct_answer": "William Shakespeare"},
+  {"question": "What is the capital of Japan?", "options": ["Seoul", "Tokyo", "Beijing", "Bangkok"], "correct_answer": "Tokyo"},
+  {"question": "Which planet is known as the 'Red Planet'?", "options": ["Mars", "Jupiter", "Venus", "Saturn"], "correct_answer": "Mars"},
+  {"question": "Who painted the Mona Lisa?", "options": ["Vincent van Gogh", "Leonardo da Vinci", "Pablo Picasso", "Claude Monet"], "correct_answer": "Leonardo da Vinci"},
+  {"question": "What is the currency of Australia?", "options": ["Dollar", "Euro", "Yen", "Pound"], "correct_answer": "Dollar"},
+  {"question": "Which ocean is the largest?", "options": ["Atlantic Ocean", "Indian Ocean", "Southern Ocean", "Pacific Ocean"], "correct_answer": "Pacific Ocean"},
+  {"question": "Which country is known as the 'Land of the Rising Sun'?", "options": ["China", "South Korea", "Japan", "Vietnam"], "correct_answer": "Japan"},
+  {"question": "Who developed the theory of relativity?", "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Stephen Hawking"], "correct_answer": "Albert Einstein"},
+  {"question": "What is the largest planet in our solar system?", "options": ["Earth", "Jupiter", "Mars", "Venus"], "correct_answer": "Jupiter"},
+  {"question": "Which element has the chemical symbol 'O'?", "options": ["Oxygen", "Gold", "Iron", "Silver"], "correct_answer": "Oxygen"},
+  {"question": "Who was the first woman to win a Nobel Prize?", "options": ["Marie Curie", "Rosalind Franklin", "Ada Lovelace", "Jane Goodall"], "correct_answer": "Marie Curie"},
+  {"question": "What is the capital of Brazil?", "options": ["Buenos Aires", "Rio de Janeiro", "Brasília", "São Paulo"], "correct_answer": "Brasília"},
+  {"question": "Which famous scientist developed the laws of motion and universal gravitation?", "options": ["Isaac Newton", "Galileo Galilei", "Nikola Tesla", "Thomas Edison"], "correct_answer": "Isaac Newton"},
+  {"question": "In what year did the United States declare its independence?", "options": ["1776", "1789", "1800", "1825"], "correct_answer": "1776"},
+  {"question": "What is the main ingredient in guacamole?", "options": ["Tomato", "Avocado", "Onion", "Lime"], "correct_answer": "Avocado"},
+  {"question": "Which programming language is often used for data science?", "options": ["Java", "C#", "Python", "JavaScript"], "correct_answer": "Python"}
+]
