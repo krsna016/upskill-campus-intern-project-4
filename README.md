@@ -1,4 +1,4 @@
-# Python Quiz Game
+# Quiz Game
 
 Challenge your Python knowledge and have fun with the Python Quiz Game! This project provides an interactive quiz experience where users can answer multiple-choice questions, view their quiz history, and test their Python skills.
 
